@@ -1,0 +1,150 @@
+body{
+	background-color: #c0c0c0;
+	margin: 0;
+
+}
+
+.div1{
+	width: 100%;
+	margin-top: 15px;
+
+}
+
+	.header{
+		width: 100%;
+		text-align: center;
+		font-size: 60%; 
+		display : block;
+	}
+
+	.header img{
+		width: 30%; 
+	}
+
+	.text1{
+		width: 100%;
+		font-size: 15px;
+		color: ;
+		display: block;
+		margin-right: 10px;
+	}
+
+	.pictwo{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+		.pictwo img{
+			width: 100%;
+			display: none;
+		}
+
+.div2{
+	width: 100%;
+	margin-top: 50px;
+
+}
+
+	.pic6{
+		width: 100%;
+		text-align: center; 
+		display : block;
+		margin-bottom: 30px;
+	}
+
+	.pic6 img{
+		width: 20%;
+	}
+
+	.picthree{
+		width: 100%;
+		display: block;
+		text-align: center;
+		margin-right: 10px;
+	}
+		.picthree img{
+			width: 100%;
+			display: none;
+
+		}
+	.text2{
+		width: 100%;
+		font-size: 15px;
+		color: ;
+		display: block;
+	}
+
+
+.div3{
+	width: 100%;
+	margin-top: 50px;
+
+}
+
+	.pic7{
+		width: 100%;
+		text-align: center;
+		display : block;
+		margin-bottom: 30px;
+	}
+
+		.pic7 img{
+			width: 20%;
+		}
+
+	.text3{
+		width: 100%;
+		font-size: 15px;
+		color: ;
+		display: block;
+		margin-right: 10px;
+	}
+
+	.picfour{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+		.picfour img{
+			width: 100%;
+			display: none;
+		}
+
+.div4{
+	width: 100%;
+	margin-top: 50px;
+
+}
+
+	.pic8{
+		width: 100%;
+		text-align: center;
+		font-size: ; 
+		display : block;
+		margin-bottom: 30px;
+	}
+
+		.pic8 img{
+			width: 20%;
+		}
+
+	.picfive{
+		width: 100%;
+		display: block;
+		text-align: center;
+		margin-right: 10px;
+	}
+		.picfive img{
+			width: 100%;
+			display: none;
+		}
+	.text4{
+		width: 100%;
+		font-size: 15px;
+		color: ;
+		display: block;
+	}
+
+
+
+
